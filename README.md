@@ -50,5 +50,3 @@ To get started with this project, follow these steps:
 
 `go run .`
 
-# booking-app
-# booking-app
