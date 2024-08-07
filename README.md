@@ -3,13 +3,17 @@
 ## ***Introduction***
 
 Welcome to my Go project! This project is a culmination of my journey learning the Go programming language. Through this project, I aim to demonstrate my understanding of Go and its capabilities. The project showcases several key GO SYNTAX & CONCEPTS.
+
 Why I Created This Project
 
 As I delved into learning Go, I wanted to apply my knowledge in a practical way. This project serves multiple purposes:
 
 Hands-on Learning: Reinforce my understanding of Go by building a functional project.
+
 Showcase Skills: Demonstrate my proficiency in Go to potential employers or collaborators.
+
 Open Source Contribution: Share my work with the community and possibly get feedback or contributions from other developers.
+
 Project Features and Topics Covered
 
 ***This project covers a range of topics in Go, including but not limited to:***
